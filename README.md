@@ -25,6 +25,6 @@ Putty/pscp: https://www.putty.org/
 
 Python: https://www.python.org/downloads/
 
-strings: https://docs.microsoft.com/en-us/sysinternals/downloads/strings
+Strings: https://docs.microsoft.com/en-us/sysinternals/downloads/strings
 
 TCPView: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
