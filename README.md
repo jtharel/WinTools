@@ -1,8 +1,26 @@
 # WinTools
 Windows Tools Frequently Used
 
+DiskMon: https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon
 
 grep: http://gnuwin32.sourceforge.net/packages/grep.htm
-strings: https://docs.microsoft.com/en-us/sysinternals/downloads/strings
+
+HxD Hex Editor: https://mh-nexus.de/en/hxd/
+
+Memoryze: https://www.fireeye.com/services/freeware/memoryze.html
+
+Microsoft Attack Surface Analyzer: https://www.microsoft.com/en-us/download/details.aspx?id=24487
+
 Olly: http://www.ollydbg.de/
+
+ProcDump: https://docs.microsoft.com/en-us/sysinternals/downloads/procdump
+
+ProcessMonitor: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+
 Putty/pscp: https://www.putty.org/
+
+Python: https://www.python.org/downloads/
+
+strings: https://docs.microsoft.com/en-us/sysinternals/downloads/strings
+
+TCPView: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
