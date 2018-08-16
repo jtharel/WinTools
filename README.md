@@ -11,9 +11,13 @@ Memoryze: https://www.fireeye.com/services/freeware/memoryze.html
 
 Microsoft Attack Surface Analyzer: https://www.microsoft.com/en-us/download/details.aspx?id=24487
 
+Nmap: https://nmap.org/download.html
+
 Olly: http://www.ollydbg.de/
 
 ProcDump: https://docs.microsoft.com/en-us/sysinternals/downloads/procdump
+
+ProcessExplorer: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 
 ProcessMonitor: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
 
