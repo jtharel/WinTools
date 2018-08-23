@@ -3,6 +3,8 @@ Windows Tools Frequently Used
 
 DiskMon: https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon
 
+Echo Mirage: https://sourceforge.net/projects/echomirage.oldbutgold.p/
+
 grep: http://gnuwin32.sourceforge.net/packages/grep.htm
 
 HxD Hex Editor: https://mh-nexus.de/en/hxd/
