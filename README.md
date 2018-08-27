@@ -30,3 +30,5 @@ Python: https://www.python.org/downloads/
 Strings: https://docs.microsoft.com/en-us/sysinternals/downloads/strings
 
 TCPView: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
+
+Wget: https://sourceforge.net/projects/gnuwin32/files/wget/1.11.4-1/wget-1.11.4-1-setup.exe/download?use_mirror=cfhcable
