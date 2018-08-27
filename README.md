@@ -32,3 +32,5 @@ Strings: https://docs.microsoft.com/en-us/sysinternals/downloads/strings
 TCPView: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
 
 Wget: https://sourceforge.net/projects/gnuwin32/files/wget/1.11.4-1/wget-1.11.4-1-setup.exe/download?use_mirror=cfhcable
+
+Wireshark: https://2.na.dl.wireshark.org/win64/Wireshark-win64-2.6.2.exe
