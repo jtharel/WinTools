@@ -9,6 +9,10 @@ grep: http://gnuwin32.sourceforge.net/packages/grep.htm
 
 HxD Hex Editor: https://mh-nexus.de/en/hxd/
 
+Immunity Debugger: https://www.immunityinc.com/products/debugger/
+
+Mona.py add-on for Immunity and WinDBG: https://github.com/corelan/mona
+
 Memoryze: https://www.fireeye.com/services/freeware/memoryze.html
 
 Microsoft Attack Surface Analyzer: https://www.microsoft.com/en-us/download/details.aspx?id=24487
