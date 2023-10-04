@@ -31,6 +31,8 @@ Putty/pscp: https://www.putty.org/
 
 Python: https://www.python.org/downloads/
 
+Registry Changes View: https://www.nirsoft.net/utils/registry_changes_view.html
+
 Strings: https://docs.microsoft.com/en-us/sysinternals/downloads/strings
 
 TCPView: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
